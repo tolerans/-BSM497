@@ -1,0 +1,5 @@
+{
+    "NUM_MINHASHES" : 256,
+    "SKETCH_RATIO" : 8,
+    "DB_NAME" : "similarity.db"
+}
